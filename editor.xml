@@ -3,7 +3,7 @@
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
+    <pattern case-sensitive="true" pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern useCustomColors="true" pattern="\bnote\b.*">
       <option name="FOREGROUND" value="1dc01c" />
@@ -12,6 +12,11 @@
     </pattern>
     <pattern useCustomColors="true" pattern="\bhack\b.*">
       <option name="FOREGROUND" value="c0680a" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
+    <pattern icon="question" useCustomColors="true" pattern="\bque\b.*">
+      <option name="FOREGROUND" value="c0004c" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>

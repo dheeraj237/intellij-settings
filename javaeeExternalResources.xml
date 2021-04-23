@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.hibernate.org/dtd/hibernate-configuration" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.3/extResources/9af1d8d0_hibernate-configuration.html" />
     <ignored-resource url="http://maven.apache.org//4.0.0" />
   </component>
 </application>
