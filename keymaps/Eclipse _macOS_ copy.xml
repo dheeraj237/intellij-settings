@@ -1,4 +1,8 @@
 <keymap version="1" name="Eclipse (macOS) copy" parent="Eclipse (Mac OS X)">
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
