@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../ShippingCore/src/main/java/com/snapdeal/shipping/core/dto/InvoiceSellerItemDTO.java [ShippingCore]'" />
-    <option name="defaultScopeName" value="File '.../ShippingCore/src/main/java/com/snapdeal/shipping/core/dto/InvoiceSellerItemDTO.java [ShippingCore]'" />
-    <option name="SEARCH_SCOPE" value="File '.../ShippingCore/src/main/java/com/snapdeal/shipping/core/dto/InvoiceSellerItemDTO.java [ShippingCore]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.scss</mask>
