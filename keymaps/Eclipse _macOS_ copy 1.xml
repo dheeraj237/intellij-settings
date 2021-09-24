@@ -5,6 +5,9 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="EditorScrollBottom">
+    <mouse-shortcut keystroke="shift meta button143" />
+  </action>
   <action id="EditorScrollTop">
     <mouse-shortcut keystroke="shift meta button142" />
   </action>
